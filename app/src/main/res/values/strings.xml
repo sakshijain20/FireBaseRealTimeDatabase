@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FireBase RealTime Database</string>
+    <string name="password">Password</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">age</string>
+    <string name="add">ADD</string>
+    <string name="email">email</string>
+    <string name="alternate_number">Alternate Number</string>
+    <string name="address">address</string>
+    <string name="your_age">Your age</string>
+</resources>

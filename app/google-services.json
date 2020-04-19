@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124955632013",
+    "firebase_url": "https://fir-realtimedatabase-90279.firebaseio.com",
+    "project_id": "fir-realtimedatabase-90279",
+    "storage_bucket": "fir-realtimedatabase-90279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124955632013:android:0a9d576ec3cbf3de785dc4",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtiemdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124955632013-v264rqvfq3ik5v9h574935gqhimspu96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASNna-9-E8CP3dSsk_m0OeUIvbrYDN6Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124955632013-v264rqvfq3ik5v9h574935gqhimspu96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
