@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
         else{
-            Toast.makeText(this, "All filed are required!!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "All field are required!!", Toast.LENGTH_SHORT).show();
         }
 
 
