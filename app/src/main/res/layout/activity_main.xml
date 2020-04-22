@@ -16,7 +16,7 @@
         android:ems="10"
         android:hint="Your phone number"
         android:layout_marginBottom="16dp"
-        android:inputType="phone" />
+        android:inputType="number" />
 
     <EditText
         android:id="@+id/firstName"
@@ -47,6 +47,14 @@
         android:hint="@string/address"
         android:inputType="textShortMessage" />
 
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_below="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"/>
+
 
     <Button
         android:id="@+id/add"
@@ -56,5 +64,16 @@
         android:layout_marginBottom="16dp"
         android:text="@string/add"
         />
+
+    <Button
+        android:id="@+id/retrieve"
+        android:layout_below="@+id/add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Retrieve data"
+        android:onClick="retrieve_data"
+        />
+
 
 </RelativeLayout>
