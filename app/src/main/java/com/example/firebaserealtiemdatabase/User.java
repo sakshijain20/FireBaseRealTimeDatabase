@@ -1,7 +1,7 @@
 package com.example.firebaserealtiemdatabase;
 
 public class User {
-   public String firstname,lastname,address;
+    public String firstname,lastname,address;
 
     public User() {
     }
